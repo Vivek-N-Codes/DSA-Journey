@@ -1,9 +1,11 @@
 /*
 ==========================================================
-Problem      :
-Platform     : LeetCode
-Difficulty   :
-Topic        :
+Problem       :
+Platform      : LeetCode
+Problem Link  :
+Difficulty    :
+Category      :
+Pattern       :
 
 Approach
 ----------------------------------------------------------

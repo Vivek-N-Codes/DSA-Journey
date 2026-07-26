@@ -1,0 +1,49 @@
+{
+    "repository": {
+        "name": "DSA-Journey",
+        "version": "v1.1",
+        "lastUpdated": null
+    },
+
+    "statistics": {
+        "totalProblems": 0,
+        "easy": 0,
+        "medium": 0,
+        "hard": 0
+    },
+
+    "topics": {
+        "Arrays": 0,
+        "Strings": 0,
+        "Linked List": 0,
+        "Stack": 0,
+        "Queue": 0,
+        "Trees": 0,
+        "BST": 0,
+        "Graphs": 0,
+        "Heap": 0,
+        "Hashing": 0,
+        "Recursion": 0,
+        "Backtracking": 0,
+        "Binary Search": 0,
+        "Sliding Window": 0,
+        "Two Pointers": 0,
+        "Greedy": 0,
+        "Dynamic Programming": 0,
+        "Bit Manipulation": 0,
+        "Math": 0
+    },
+
+    "patterns": {
+        "Traversal": 0,
+        "Two Pointers": 0,
+        "Sliding Window": 0,
+        "Prefix Sum": 0,
+        "Hashing": 0,
+        "Binary Search": 0,
+        "Kadane": 0,
+        "Dutch National Flag": 0,
+        "Moore Voting": 0,
+        "Fast & Slow Pointer": 0
+    }
+}
