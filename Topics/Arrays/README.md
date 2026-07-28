@@ -141,7 +141,6 @@ Used for:
 | Sort Colors | Medium | Dutch National Flag |
 | Majority Element | Easy | Moore Voting |
 
-(Add more as you solve.)
 
 ---
 
